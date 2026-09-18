@@ -10,7 +10,7 @@ window.CITY = {
   comunasGeojson: "comunas_chillan.geojson",
   live: true,
   liveBase: "https://storage.googleapis.com/chillan-transporte-live/",
-  demanda: false,
+  demanda: true,
   repo: "transportepublicoChillan",
   voz: {"ejeSing": "eje", "ejePlur": "ejes", "EjePlur": "Ejes"},
 };
